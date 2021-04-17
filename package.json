@@ -1,0 +1,23 @@
+{
+  "name": "GitMystoreroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanChanzi/GitMystoreroom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanChanzi/GitMystoreroom/issues"
+  },
+  "homepage": "https://github.com/HanChanzi/GitMystoreroom#readme",
+  "dependencies": {
+    "webpack": "^5.33.2"
+  }
+}
